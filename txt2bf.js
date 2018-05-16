@@ -1,3 +1,9 @@
+
+/*
+  Code borrowed from 
+  https://codegolf.stackexchange.com/a/107189/80573
+*/
+
 function BfGen(input) {
   function StringBuilder() {
     var sb = {};
